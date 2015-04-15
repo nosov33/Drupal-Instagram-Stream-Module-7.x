@@ -1,4 +1,5 @@
 name = Instagram Sream 
-description = Module create Instagram page&block by user ID & hashtag. Developed by Ivan Nosov.
+description = Module create Instagram block by user ID & hashtag & location. Developed by Ivan Nosov.
 package = Multimedia 
 core = 7.x
+version = 7.x-0.5-dev
